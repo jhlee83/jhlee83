@@ -1,11 +1,11 @@
-### Hi there 👋
+### Greetings 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
+- 🔭 I’m currently 
+- 🌱 I’m currently learning javascript, python, solidity programming language
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me ...
-- 📫 How to reach me: Discord izycodes#3410 / [Linkedin](https://www.linkedin.com/in/ji-hyeong-lee-583590138/) / E-mail
+- 📫 How to reach me: Discord izycodes#3410 / [Linkedin](https://www.linkedin.com/in/ji-hyeong-lee-583590138/) / E-mail(izymwb1@gmail.com)
 
 <!--
 **jhlee83/jhlee83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
