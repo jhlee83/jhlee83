@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me ...
-- 📫 How to reach me: Discord izycodes#3410 / [Linkedin](https://www.linkedin.com/in/ji-hyeong-lee-583590138/) / E-mail
-<a href="[https://www.google.co.kr/](https://www.linkedin.com/in/ji-hyeong-lee-583590138/)" target="_blank"> Linkedin </a>
+- 📫 How to reach me: Discord izycodes#3410 / [Linkedin](https://www.linkedin.com/in/ji-hyeong-lee-583590138/){: target="_blank"} / E-mail
+
 <!--
 **jhlee83/jhlee83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
