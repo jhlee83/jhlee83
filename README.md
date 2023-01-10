@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-- 🔭 I’m currently 
+- 🔭 
 - 🌱 I’m currently learning javascript, python, solidity programming language
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
